@@ -1,0 +1,74 @@
+.form{ 
+  width: 880px;
+  padding: 10px;
+  background-color:#e9eaed;
+  margin: auto;
+  font-weight: bold;
+}
+.textfield{
+	width:140px;
+}
+.textfieldo{
+	width:120px;
+	float:right
+}
+.textarea{
+	width:300px;
+	height: 40px;
+	background-color:#FFFFFF;
+	border-radius:0px;
+}
+.HEADFORM {
+	background-color:#CCCCCC;
+	border-radius:1px;
+	border: 1px inset #CCCCCC;
+	float:right;
+}
+.BODYTABLE{
+	background-color: #CFCBCB;
+  	margin: auto;
+  	padding: 10px;
+  	font-family: Arial, Helvetica, sans-serif;
+  	font-size: 14px;
+  	border-radius: 1px inset #CCCCCC;;	
+	border: 1px inset #CCCCCC;
+	
+}
+.tabel_matkul{
+	background-color: #CFCBCB;
+  	margin: auto;
+  	padding: 10px;
+  	font-family: Arial, Helvetica, sans-serif;
+  	font-size: 14px;
+  	border-radius: 10px;
+	float:left;
+	}
+.tombol {
+	background-color:#BBBBBB;
+	border-radius:5px;
+	border: 2px outset #CCCCCC;
+	height:35px;
+	font-family:"Courier New", Courier, mono;
+	float:left;
+	font-weight: bold;
+	
+}
+input.textfilmin {
+  width: 49px;
+}
+.field_white {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	text-decoration: none;
+	background-color: #FFFFFF;
+}
+.persen {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.medium {
+	width: 85px;
+}
+.tabel_laporan {
+	background-color: #FFFFFF;
+	font-size:12px;
+}
